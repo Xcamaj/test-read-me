@@ -7,7 +7,7 @@ x
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
-* [Contact](#contact)
+* [Questions](#question)
 
 ## Installation
 x
@@ -16,8 +16,8 @@ x
 x
 
 ## License
-Apache 2.0 ![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
-https://www.apache.org/licenses/LICENSE-2.0
+MIT ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+https://opensource.org/licenses/MIT
 
 
 
