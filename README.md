@@ -1,7 +1,7 @@
-# xc
+# x
 
 ## Description
-xcc
+x
 
 ## Table of Contents
 * [Installation](#installation)
@@ -10,21 +10,19 @@ xcc
 * [Questions](#question)
 
 ## Installation
-xc
+x
 
 ## Usage 
 x
 
-##  ![License](https://img.shields.io/badge/License-EPL_1.0-red.svg)
-* https://www.eclipse.org/legal/epl-v10.html
-
-
+## License: Apache 2.0 ![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
+* https://www.apache.org/licenses/LICENSE-2.0
 
 ## Contributors
-xc
+x
 
 ## Questions
 For any questions please reach out at:
-* Github: [github.com/xxxx](https://github.com/xxxx)
+* Github: [github.com/x](https://github.com/x)
 * E-mail: x
 
