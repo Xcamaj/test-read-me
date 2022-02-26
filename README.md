@@ -16,7 +16,6 @@ x
 x
 
 ##License: MIT ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-
 * https://opensource.org/licenses/MIT
 
 
@@ -28,4 +27,3 @@ x
 For any questions please reach out at:
 * Github: [github.com/x](https://github.com/x)
 * E-mail: x
-
