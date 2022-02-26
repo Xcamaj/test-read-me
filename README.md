@@ -1,7 +1,7 @@
 # xc
 
 ## Description
-xc
+xcc
 
 ## Table of Contents
 * [Installation](#installation)
@@ -10,21 +10,21 @@ xc
 * [Questions](#question)
 
 ## Installation
-x
+xc
 
 ## Usage 
 x
 
-## License: MIT ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-* https://opensource.org/licenses/MIT
+##  ![License](https://img.shields.io/badge/License-EPL_1.0-red.svg)
+* https://www.eclipse.org/legal/epl-v10.html
 
 
 
 ## Contributors
-x
+xc
 
 ## Questions
 For any questions please reach out at:
-* Github: [github.com/x](https://github.com/x)
+* Github: [github.com/xxxx](https://github.com/xxxx)
 * E-mail: x
 
